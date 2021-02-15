@@ -15,9 +15,6 @@ public class Lecture {
     }
 
     public static void main(String[]args){
-        Lecture lecture = new Lecture();
-        //Тип  название перем = создание конструктор(метод)
-        System.out.println(lecture.name);
         System.out.println("Hello");
     }
     //1. 8 примитивных типов
